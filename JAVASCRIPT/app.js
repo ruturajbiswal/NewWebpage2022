@@ -117,7 +117,7 @@ particlesJS('particles-js',
         "particles_nb": 10
       },
       "remove": {
-        "particles_nb": 2
+        "particles_nb": 8
       }
     }
   },
